@@ -10,7 +10,7 @@ My short comment on the course (in Chinese) could be viewed [here](https://flora
 
 review the concept of Abstraction and OOP
 
-### PROCESS
+### SCHEDULE
 
 - [x] 【0208】W1-intro&windowshopping
 
