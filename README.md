@@ -4,7 +4,7 @@
 
 This repo stores my assignments, labs and projects for [CS 61A (summer 2020)](https://inst.eecs.berkeley.edu/~cs61a/su20/).
 
-My short comment on the course could be viewed [here](https://flora025.github.io/2023/03/04/cs61a/).
+My short comment on the course (in Chinese) could be viewed [here](https://flora025.github.io/2023/03/04/cs61a/).
 
 ### GOAL
 
