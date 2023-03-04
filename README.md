@@ -1,12 +1,18 @@
 # cs61a-summer-2020
 
+### README
+
+This repo stores my assignments, labs and projects for [CS 61A (summer 2020)](https://inst.eecs.berkeley.edu/~cs61a/su20/).
+
+My short comment on the course could be viewed [here](https://flora025.github.io/2023/03/04/cs61a/).
+
 ### GOAL
 
-（快速）温故Abstraction和OOP
+review the concept of Abstraction and OOP
 
 ### PROCESS
 
-- [x] 【0208】W1-intro&研究课程网站
+- [x] 【0208】W1-intro&windowshopping
 
 - [x] 【0211】W1-functions&control  lec, hw01
 
@@ -31,3 +37,4 @@
 - [x] 【0303】pj03,  ALL W6 lec
 
 - [x] 【0304】lab10, lab11, hw07【THE END (by my standard)】
+
