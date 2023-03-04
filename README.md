@@ -30,4 +30,4 @@
 
 - [x] 【0303】pj03,  ALL W6 lec
 
-- [x] 【0304】lab10, lab11, hw07【完结撒花 我说了算 ver.】
+- [x] 【0304】lab10, lab11, hw07【THE END (by my standard)】
